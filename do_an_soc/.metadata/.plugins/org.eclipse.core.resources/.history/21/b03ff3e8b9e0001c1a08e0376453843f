@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include "io.h"
+#include "system.h"
+void main(){
+printf("test comple");
+}
+
+
+
+

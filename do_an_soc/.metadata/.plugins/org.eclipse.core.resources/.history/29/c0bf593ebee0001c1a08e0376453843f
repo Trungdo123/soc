@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include "io.h"
+#include "system.h"
+void main(){
+//printf("test comple");
+volatile int * ip =(int *) MUL_0_BASE;
+*ip= 0x3;
+*(ip+1)=0x2;
+*(ip+2)=0x1;
+*(ip+3)=0x2;
+*(ip+4)=0x12;
+
+printf("control = %x \n",*(ip+1));
+
+
+
+}
+
+
+
+

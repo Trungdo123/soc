@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ngoct/Desktop/do_an_soc/software/test1/obj/default/runtime/sim/mentor
+vadder
+!s110 1653988761
+!i10b 1
+!s100 ?NmKW2__D1enaeOWQ>A0O1
+I@:l7RjK767oAL52g?Qad32
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z2 w1653988648
+8C:/Users/ngoct/Desktop/do_an_soc/system/testbench/system_tb/simulation/submodules/adder.v
+FC:/Users/ngoct/Desktop/do_an_soc/system/testbench/system_tb/simulation/submodules/adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1653988761.000000
+!s107 C:/Users/ngoct/Desktop/do_an_soc/system/testbench/system_tb/simulation/submodules/adder.v|
+!s90 -reportprogress|300|C:/Users/ngoct/Desktop/do_an_soc/system/testbench/system_tb/simulation/submodules/adder.v|-work|mul_0|
+!i113 1
+Z4 o-work mul_0
+Z5 tCvgOpt 0
+vmul
+!s110 1653988762
+!i10b 1
+!s100 PDhhJmdV=]7Ne^Y_0NQhm0
+I:>1J8gmMRBl>CegO2^Gfc3
+R1
+R0
+R2
+8C:/Users/ngoct/Desktop/do_an_soc/system/testbench/system_tb/simulation/submodules/mul.v
+FC:/Users/ngoct/Desktop/do_an_soc/system/testbench/system_tb/simulation/submodules/mul.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1653988762.000000
+!s107 C:/Users/ngoct/Desktop/do_an_soc/system/testbench/system_tb/simulation/submodules/mul.v|
+!s90 -reportprogress|300|C:/Users/ngoct/Desktop/do_an_soc/system/testbench/system_tb/simulation/submodules/mul.v|-work|mul_0|
+!i113 1
+R4
+R5
