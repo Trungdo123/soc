@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="127" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library,Library/Processors and Peripherals,Library/Basic Functions/Bridges and Adaptors/Streaming,Library/Interface Protocols/Transceiver PLL,Library/Qsys Interconnect/Memory-Mapped,Library/Basic Functions/On Chip Memory,Library/Basic Functions/Arithmetic,Library/Processors and Peripherals/Inter-Process Communication,Library/Interface Protocols/Ethernet/10G to 1G Multi-rate Ethernet,Library/Interface Protocols/Ethernet,Library/Interface Protocols,Library/Qsys Interconnect,Library/Basic Functions,Project,Library/Qsys Interconnect/Memory-Mapped Alpha,Library/Basic Functions/Bridges and Adaptors" />
+ <window width="1100" height="728" x="0" y="0" />
+</preferences>

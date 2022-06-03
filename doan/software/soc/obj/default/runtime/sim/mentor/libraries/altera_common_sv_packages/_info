@@ -1,0 +1,33 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dG:/do_an_soc/doan/software/soc/obj/default/runtime/sim/mentor
+Xverbosity_pkg
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1654254977
+!i10b 1
+!s100 1LKXk98oFzia^4f:_THR]1
+IfoB^j[9@c<@Sf6MJ8DW^Z1
+VfoB^j[9@c<@Sf6MJ8DW^Z1
+S1
+R0
+w1654170298
+8G:/do_an_soc/doan/system/testbench/system_tb/simulation/submodules/verbosity_pkg.sv
+FG:/do_an_soc/doan/system/testbench/system_tb/simulation/submodules/verbosity_pkg.sv
+L0 61
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1654254977.000000
+!s107 G:/do_an_soc/doan/system/testbench/system_tb/simulation/submodules/verbosity_pkg.sv|
+!s90 -reportprogress|300|-sv|G:/do_an_soc/doan/system/testbench/system_tb/simulation/submodules/verbosity_pkg.sv|-work|altera_common_sv_packages|
+!i113 1
+o-sv -work altera_common_sv_packages
+tCvgOpt 0
